@@ -8,6 +8,8 @@ def corr_chickenpox():
     df = df[df['HAD_CPOX'] < 3]
 
     corr, pval = stats.pearsonr(df["HAD_CPOX"], df["P_NUMVRC"])
+    print ("pval %s", pval)
+    print ("corr %s", corr)
     return corr
 
 
