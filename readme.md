@@ -17,4 +17,4 @@ Robin L.
 
 2022.13.Sep. UPDATE
 
-According to the Code Sharing Policy, for protecting the copyright of this course, I will change this project's name.
+According to the Code Sharing Policy, for protecting the copyright of this course, I changed this project's name.
