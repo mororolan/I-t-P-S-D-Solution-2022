@@ -18,3 +18,9 @@ Robin L.
 2022.13.Sep. UPDATE
 
 According to the Code Sharing Policy, for protecting the copyright of this course, I changed this project's name.
+
+
+-----
+Week 4 Objectives:
+- Demonstrate basic statistical test knowledge on dataframes in pandas
+- Recognize other kinds of structured data such as networks, graphs, natural language
